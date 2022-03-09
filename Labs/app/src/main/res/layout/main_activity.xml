@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="393dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="92dp"
+        android:orientation="vertical"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/PutMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="displayPutMessage"
+            android:text="@string/put_message_activity_title"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/Clicker"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="displayClicker"
+            android:text="@string/clicker_activity_title"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/Calculator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="displayCalculator"
+            android:text="@string/calculator_activity_title"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/Menus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="displayMenus"
+            android:text="@string/menu_activity_title"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/NumberGuess"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="displayNumberGuess"
+            android:text="@string/number_guess_activity_title"
+            android:textAllCaps="false" />
+
+        <Button
+            android:id="@+id/BasicElements"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="displayBasicElements"
+            android:text="@string/base_elements_activity_title"
+            android:textAllCaps="false" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

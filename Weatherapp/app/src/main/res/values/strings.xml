@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather app</string>
+    <string name="city_hint">City</string>
+    <string name="get_current_weather_button">Get current weather</string>
+    <string name="get_forecast_weather_button">Get forecast weather</string>
+    <string name="menu_exit">exit</string>
+</resources>

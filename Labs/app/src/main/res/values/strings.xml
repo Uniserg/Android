@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Угадай число</string>
+
+    <string name="behind">Недолет!</string>
+    <string name="ahead">Перелет!</string>
+    <string name="hit">В точку! Поздравляем! Чтобы сыграть еще, нажмите "New game" из меню.</string>
+    <string name="input_value">Ввести значение</string>
+    <string name="play_more">Сыграть еще</string>
+    <string name="try_to_guess">Попробуйте угадать число:</string>
+    <string name="error">Неверный ввод!</string>
+    <string name="wront_interval">Неверный диапазон</string>
+    <string name="intro" translatable="false">Чтобы начать игру, нажмите "New game" из меню.</string>
+    <string name="tries_info" translatable="false">Попыток:</string>
+
+    <string name="message">Hello, Android!</string>
+    <string name="put_message">Put message</string>
+    <string name="hint_message">Enter new message</string>
+    <string name="score">Score: </string>
+    <string name="inc">+</string>
+    <string name="dec">-</string>
+    <string name="reset">Reset</string>
+
+
+    <string name="main_activity_title" translatable="false">Main</string>
+    <string name="calculator_activity_title" translatable="false">Calculator</string>
+    <string name="clicker_activity_title" translatable="false">Clicker</string>
+    <string name="put_message_activity_title" translatable="false">PutMessage</string>
+    <string name="menu_activity_title" translatable="false">Menus</string>
+    <string name="number_guess_activity_title" translatable="false">NumberGuess</string>
+    <string name="base_elements_activity_title" translatable="false">BasicElements</string>
+
+    <string name="new_game" translatable="false">New Game</string>
+    <string name="level1" translatable="false">Level 1 (easy) - [0, 20]</string>
+    <string name="level2" translatable="false">Level 2 (medium) - [0, 100]</string>
+    <string name="level3" translatable="false">Level 3 (hard) - [0, 1000]</string>
+
+    <string name="be_button" translatable="false">Update The TextView</string>
+    <string name="be_text_view_hint" translatable="false">A name</string>
+
+
+<!--    <string name="main_activity_title">Main</string>-->
+<!--    <string name="main_activity_title">Main</string>-->
+<!--    <string name="main_activity_title">Main</string>-->
+
+</resources>
