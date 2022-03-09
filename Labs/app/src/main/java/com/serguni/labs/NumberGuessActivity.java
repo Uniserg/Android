@@ -1,4 +1,4 @@
-package com.example.lesson1;
+package com.serguni.labs;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;

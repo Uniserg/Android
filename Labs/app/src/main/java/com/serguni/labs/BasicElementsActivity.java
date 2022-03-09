@@ -1,6 +1,4 @@
-package com.example.lesson1;
-
-import static androidx.constraintlayout.motion.utils.Oscillator.TAG;
+package com.serguni.labs;
 
 import android.annotation.SuppressLint;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.example.lesson1;
+package com.serguni.labs;
 
 import android.os.Bundle;
 import android.view.Menu;
